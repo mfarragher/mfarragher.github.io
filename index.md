@@ -15,7 +15,8 @@ I have a background in SaaS, quantitative economics, consulting & data analytics
 - Statistical inference: e.g. A/B testing and experimentation; causal inference
 - Machine learning
 - Product analytics on variety of data: e.g. user journey optimisation; B2B data; advertising data; textual data
-- Supporting analysts with business intelligence
+- Business intelligence: developing analytics strategy at enterprise level and supporting analysts' skills development
+- Healthcare: e.g. epidemiology, genetics, genomics, public health
 - Economics and econometrics
 
 ## Tech stack
