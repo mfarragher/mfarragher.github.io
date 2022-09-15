@@ -41,4 +41,4 @@ Here is content for my data science talks:
   - [Video](https://pyvideo.org/pydata-london-2019/on-the-path-to-causal-inference.html) & [Slides](files/PyData%20London%202019%20-%20On%20the%20Path%20to%20Causal%20Inference%20(corrected%20slides).pdf)
   - A primer on causal inference applied to problems in travel technology.  What is causal inference, why is it important and how can we apply it to projects?
 - PyCon 2022 talks :: *Connecting those thoughts: Personal knowledge management with Python*
-  - [Extra material](https://github.com/mfarragher/mfarragher.github.io/blob/master/files/PyCon%202022%20-%20extra%20material%20for%20talk.md)
+  - [Extra material](https://github.com/mfarragher/mfarragher.github.io/blob/master/files/PyCon%202022%20-%20Connecting%20those%20thoughts%20talk%20material.md)
